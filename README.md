@@ -1,2 +1,2 @@
 # Pinduoduo
-vue拼多多
+不完整的vue拼多多界面
