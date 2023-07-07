@@ -1,4 +1,3 @@
 # Pinduoduo
 不完整的vue拼多多界面
-
-下载code文件
+下载code文件获得源码
